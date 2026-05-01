@@ -91,4 +91,4 @@ for k, v in notas2.items():
     print(k, v)
 
 x, y = list(map(int, input().split()))
-print("value", x+12, y+11)
+print("value", x+12, y+8)
