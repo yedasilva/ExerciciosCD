@@ -88,5 +88,7 @@ print(notas2[12])
 
 print(notas2)
 for k, v in notas2.items():
-    print(k, v) 
+    print(k, v)
 
+x, y = list(map(int, input().split()))
+print("value", x+12, y+11)
